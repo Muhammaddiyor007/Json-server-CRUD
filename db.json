@@ -1,0 +1,28 @@
+{
+  "cars": [
+    {
+      "name": "Chevrolet",
+      "model": "Malibu",
+      "price": "32000",
+      "year": "2024",
+      "image": "https://lionmotors.uz/wp-content/uploads/2020/11/malibuwhite2.jpg",
+      "id": "d38b"
+    },
+    {
+      "name": "KIA",
+      "model": "K5",
+      "price": "33200",
+      "year": "2021",
+      "image": "https://www.kia.com/content/dam/kia/us/en/vehicles/k5/2025/trims/lxs/exterior/0c0c0c/8-frame/05.png",
+      "id": "91f4"
+    },
+    {
+      "name": "KIA",
+      "model": "K8",
+      "price": "45000",
+      "year": "2025",
+      "image": "https://www.kia.com/content/dam/kia/us/en/vehicles/k5/2025/trims/lxs/exterior/0c0c0c/8-frame/05.png",
+      "id": "0f3e"
+    }
+  ]
+}
